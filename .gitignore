@@ -1,0 +1,10 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+local.properties
+config.cfg
+tizenApp/.buildResult/
+tizenApp/.manifest.tmp
+tizenApp/author-signature.xml
+tizenApp/signature*.xml
