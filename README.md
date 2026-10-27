@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="branding/1000086209.jpg" alt="ECHO NOW Logo" width="560">
+  <img src="branding/1000086209.png" alt="ECHO NOW Logo" width="560">
 
-  # ECHO NOW
 
-  **A modern, cross-platform media streaming client built with Kotlin Multiplatform and Compose Multiplatform.**
+
+  **A modern, cross-platform media streaming client**
 
   [![GitHub Release](https://img.shields.io/github/v/release/ShadyDevelopment/ECHO.NOW?style=flat-square&color=008080)](https://github.com/ShadyDevelopment/ECHO.NOW/releases)
   [![Platform - Android](https://img.shields.io/badge/Platform-Android%20%7C%20Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white)](#android--android-tv)
@@ -24,11 +24,11 @@
 
 **ECHO NOW** delivers a seamless cinematic experience across mobile devices, desktop computers, and TV screens:
 
-- **Unified Interface:** Fluid, adaptive UI powered by Compose Multiplatform with native remote navigation support.
-- **Cross-Platform Playback:** Hardware-accelerated streaming driven by Android Media3 / ExoPlayer, desktop VLCJ, and Samsung AVPlay / Hls.js.
-- **Rich Media Catalog:** Real-time metadata, trending titles, genre filters, cast details, and backdrop-led screen layouts powered by TMDB.
+- **Unified Interface:** Fluid, adaptive UI with native remote navigation support.
+- **Cross-Platform Playback:** Hardware-accelerated streaming.
+- **Rich Media Catalog:** Real-time metadata, trending titles, genre filters, cast details, and backdrop-led screen layouts.
 - **Smart Progress Tracking:** Persistent watch progress, "Continue Watching" shelves, and instant resume support.
-- **Integrated Subtitles:** Automatic search, download, and synchronization with SRT/VTT formatting, timing offsets, and styling controls (SubDL & OpenSubtitles support).
+- **Integrated Subtitles:** Automatic search, download, and synchronization with SRT/VTT formatting, timing offsets, and styling controls (Additional SubDL & OpenSubtitles configuration support).
 
 ---
 
